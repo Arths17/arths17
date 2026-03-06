@@ -10,7 +10,7 @@ I’m a Computer Science student passionate about building software that solves 
 📱 Interested in Web & Mobile Development (React, Next.js, iOS)  
 🍣 Food lover — always up for trying new cuisines  
 👨 Pronouns: He/Him  
-📫 Reach me at: atharv@example.com  
+📫 Reach me at: atharvranjan8@gmail.com 
 🧾 Check out my [resume](#)  
 🔗 Visit my [website](#)  
 
