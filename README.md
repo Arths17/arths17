@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Atharv Ranjan 👋
 
-<!--
-**Arths17/arths17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student passionate about building software that solves real problems, exploring cutting-edge technologies, and combining creativity with technical problem-solving.
 
-Here are some ideas to get you started:
+⚡ **Quick Facts:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Engineer / Intern  
+🏠 Currently working on projects like [e.g., a personal web app or GitHub projects]  
+🎮 Gaming enthusiast and tech explorer  
+📱 Interested in Web & Mobile Development (React, Next.js, iOS)  
+🍣 Food lover — always up for trying new cuisines  
+👨 Pronouns: He/Him  
+📫 Reach me at: atharv@example.com  
+🧾 Check out my [resume](#)  
+🔗 Visit my [website](#)  
+
+🛠️ **Languages and Tools I Use:**  
+
+`Python` `C++` `JavaScript` `TypeScript` `HTML` `CSS` `React` `Next.js` `Node.js` `SQL` `Git` `TailwindCSS` `Vercel`  
+
+---
+
+## About Me
+
+I enjoy creating tools and apps that make life easier or more fun. Whether it’s a full-stack web app, an AI-powered tool, or an interactive game, I love learning new technologies and bringing ideas to life. I’m always experimenting, contributing to open-source, and building projects that challenge me to grow as a developer.
