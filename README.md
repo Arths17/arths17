@@ -1,25 +1,42 @@
 # Hi, I'm Atharv Ranjan 👋
 
-I’m a Computer Science student passionate about building software that solves real problems, exploring cutting-edge technologies, and combining creativity with technical problem-solving.
+I'm a builder, developer, and aspiring entrepreneur passionate about creating software that solves real problems. I enjoy turning ideas into real products, experimenting with new technologies, and working on projects that push my technical and creative limits.
 
-⚡ **Quick Facts:**
+⚡ **Quick Facts**
 
-💻 Aspiring Software Engineer / Intern  
-🏠 Currently working on projects like [e.g., a personal web app or GitHub projects]  
+💻 Founder / Developer building projects like **NexDex**  
+🚀 Interested in startups, product building, and scalable software  
+🤖 Exploring AI-powered tools, developer platforms, and automation  
+🌐 Building full-stack web apps and contributing to open source  
 🎮 Gaming enthusiast and tech explorer  
-📱 Interested in Web & Mobile Development (React, Next.js, iOS)  
-🍣 Food lover — always up for trying new cuisines  
-👨 Pronouns: He/Him  
-📫 Reach me at: atharvranjan8@gmail.com 
-🧾 Check out my [resume](#)  
-🔗 Visit my [website](#)  
+📍 Based in Texas  
 
-🛠️ **Languages and Tools I Use:**  
+📫 Reach me at: **atharvranjan8@gmail.com**  
+ 
+---
 
-`Python` `C++` `JavaScript` `TypeScript` `HTML` `CSS` `React` `Next.js` `Node.js` `SQL` `Git` `TailwindCSS` `Vercel`  
+## 🛠️ Languages & Tools
+
+`Python` `JavaScript` `TypeScript` `C++`  
+`React` `Next.js` `Node.js`  
+`Git` `SQL` `APIs` `Vercel`
 
 ---
 
-## About Me
+## 🚧 What I'm Working On
 
-I enjoy creating tools and apps that make life easier or more fun. Whether it’s a full-stack web app, an AI-powered tool, or an interactive game, I love learning new technologies and bringing ideas to life. I’m always experimenting, contributing to open-source, and building projects that challenge me to grow as a developer.
+• **NexDex** – building a platform around developer tools and innovation  
+• Contributing to **open source projects**  
+• Learning more about **AI systems, scalable backend architecture, and startup building**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced full-stack development  
+- AI / LLM powered applications  
+- Startup product development  
+
+---
+
+⭐ Always open to collaborating on interesting projects and meeting other builders.
