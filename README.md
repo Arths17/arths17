@@ -4,7 +4,7 @@ I'm a builder, developer, and aspiring entrepreneur passionate about creating so
 
 ⚡ **Quick Facts**
 
-💻 Founder / Developer building projects like **NexDex**  
+💻 Founder / Developer building projects like 
 🚀 Interested in startups, product building, and scalable software  
 🤖 Exploring AI-powered tools, developer platforms, and automation  
 🌐 Building full-stack web apps and contributing to open source  
@@ -35,7 +35,6 @@ I'm a builder, developer, and aspiring entrepreneur passionate about creating so
 
 ## 🚧 What I'm Working On
 
-• **NexDex** – building a platform around developer tools and innovation  
 • Contributing to **open source projects**  
 • Learning more about **AI systems, scalable backend architecture, and startup building**
 
