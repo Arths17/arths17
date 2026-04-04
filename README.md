@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- Typing SVG — auto-updates, change lines to whatever you want -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Atharv+Ranjan+%F0%9F%91%8B;Builder+%C2%B7+Developer+%C2%B7+Founder;Turning+ideas+into+real+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Atharv+Ranjan+%F0%9F%91%8B;Builder+%C2%B7+Developer+%C2%B7+Founder;Turning+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p>
-  <a href="mailto:atharvranjan8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-atharvranjan8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Based%20in-Texas%2C%20USA-FF6B35?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
-</p>
+<br/>
+
+<a href="mailto:atharvranjan8@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-atharvranjan8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Texas%2C%20USA-📍-FF6B35?style=for-the-badge"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ArthV17&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -17,12 +18,12 @@
 
 ## 🧠 About Me
 
-I'm a full-stack developer and product builder obsessed with shipping software that actually matters. I work at the intersection of **AI, web development, and automation** — and I'm always chasing the next idea worth building.
+I'm a full-stack developer and product builder obsessed with shipping software that actually matters — working at the intersection of **AI, web development, and automation**.
 
-- 🔨 Building projects with **Next.js, React, Node.js, and Python**
+- 🔨 Building with **Next.js, React, Node.js, and Python**
 - 🤖 Exploring **LLM-powered tools** and AI-driven developer experiences
-- ☁️ Learning **cloud architecture** and scalable backend systems
-- 🌐 Contributing to **open source** and developer tooling
+- ☁️ Studying **scalable backend architecture** and cloud systems
+- 🌐 Contributing to **open source** and building in public
 - 🎮 Gaming enthusiast and perpetual tech explorer
 - 💡 Always open to collaborating on ambitious projects
 
@@ -52,15 +53,15 @@ I'm a full-stack developer and product builder obsessed with shipping software t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArthV17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthV17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak stats — updates daily automatically -->
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ArthV17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
@@ -68,34 +69,12 @@ I'm a full-stack developer and product builder obsessed with shipping software t
 
 ## 🚧 Current Focus
 
-| Area | What I'm Doing |
+| Area | What I'm Working On |
 |---|---|
-| 🤖 AI/LLM | Building AI-powered apps and experimenting with agent workflows |
+| 🤖 AI / LLM | Building AI-powered apps and experimenting with agent workflows |
 | ☁️ Cloud | Studying scalable backend architecture and cloud systems |
 | 🌐 Full-Stack | Shipping full-stack web apps with Next.js + Node.js |
 | 🔓 Open Source | Contributing to projects and building in public |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Auto-updates with your GitHub activity -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<!-- Snake animation — requires GitHub Actions setup (see below) -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
