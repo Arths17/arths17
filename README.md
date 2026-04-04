@@ -1,51 +1,58 @@
-# Hi, I'm Atharv Ranjan 👋
+<div align="center">
 
-I'm a builder, developer, and aspiring entrepreneur passionate about creating software that solves real problems. I enjoy turning ideas into real products, experimenting with new technologies, and working on projects that push my technical and creative limits.
+Hey, I'm Atharv Ranjan 👋
+Builder · Developer · Aspiring Entrepreneur
 
-⚡ **Quick Facts**
+Turning ideas into real products — one commit at a time.
 
-💻 Founder / Developer building projects like 
-🚀 Interested in startups, product building, and scalable software  
-🤖 Exploring AI-powered tools, developer platforms, and automation  
-🌐 Building full-stack web apps and contributing to open source  
-🎮 Gaming enthusiast and tech explorer  
-📍 Based in Texas  
+[
+[
 
-📫 Reach me at: **atharvranjan8@gmail.com**  
- 
----
+</div>
 
-## 🛠️ Languages & Tools
+🧠 About Me
+I'm a full-stack developer and product builder passionate about creating software that solves real problems. I love experimenting with emerging tech — especially AI-powered tools, scalable systems, and developer platforms — and turning rough ideas into polished products.
 
+🚀 Building projects at the intersection of AI, web, and automation
+
+🌐 Crafting full-stack web apps and contributing to open source
+
+🤖 Exploring LLM-powered applications and developer tooling
+
+🎮 Gaming enthusiast and perpetual tech explorer
+
+⭐ Always open to collaborating with fellow builders
+
+🛠️ Languages & Tools
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
 </p>
----
 
-## 🚧 What I'm Working On
+🚧 Currently Building
+🔨 Contributing to open source projects
 
-• Contributing to **open source projects**  
-• Learning more about **AI systems, scalable backend architecture, and startup building**
+📐 Exploring scalable backend architecture and system design
 
----
+🤖 Building with AI/LLM APIs to create smarter developer tools
 
-## 🌱 Currently Learning
+🌱 Learning the craft of startup product development
 
-- Advanced full-stack development  
-- AI / LLM powered applications  
-- Startup product development  
+📊 GitHub Stats
+<div align="center">
 
----
+</div>
 
-⭐ Always open to collaborating on interesting projects and meeting other builders.
+<div align="center">
+
+Let's build something great together — reach out anytime!
+
+</div>
